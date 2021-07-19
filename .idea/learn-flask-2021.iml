@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/flask-01-3-cli" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/flask-01-1-hello" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/flask-04-2-form-bootstrap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flask-07-1-say-hello" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (learn-flask-2021)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -17,8 +18,8 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/flask-03-1-template/templates" />
-        <option value="$MODULE_DIR$/flask-04-1-form/templates" />
         <option value="$MODULE_DIR$/flask-04-2-form-bootstrap/templates" />
+        <option value="$MODULE_DIR$/flask-07-1-say-hello/sayhello/templates" />
       </list>
     </option>
   </component>

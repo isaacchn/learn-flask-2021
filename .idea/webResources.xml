@@ -6,6 +6,7 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/bootstrap" />
+            <path value="file://$PROJECT_DIR$/flask-07-1-say-hello/sayhello/static" />
           </resourceRoots>
         </entryData>
       </entry>
