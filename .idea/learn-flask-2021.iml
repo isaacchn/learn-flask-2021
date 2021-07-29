@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/flask-01-3-cli" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/flask-01-1-hello" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/flask-04-2-form-bootstrap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flask-01-2-shell" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (learn-flask-2021)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
