@@ -10,8 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/flask-04-2-form-bootstrap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/flask-01-2-shell" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/flask-07-1-say-hello" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flask-05-database" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (learn-flask-2021)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (learn-flask-2021)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
