@@ -7,6 +7,7 @@
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/bootstrap" />
             <path value="file://$PROJECT_DIR$/flask-07-1-say-hello/sayhello/static" />
+            <path value="file://$PROJECT_DIR$/flask-05-database/static" />
           </resourceRoots>
         </entryData>
       </entry>
