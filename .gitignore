@@ -213,4 +213,4 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # 自定义
-flask-07-1-say-hello/data.db
+flask-07-say-hello/data.db
